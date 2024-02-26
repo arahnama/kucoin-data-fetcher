@@ -1,3 +1,7 @@
+
+
+![trading_API_keys](https://github.com/arahnama/kucoin-data-fetcher/assets/108895917/51d2c370-2830-48b3-bad1-a0e06b1a24cc)
+
 Cryptocurrency markets are renowned for their volatility and unpredictability, making reliable and timely data essential for anyone
 looking to analyze trends or develop trading strategies. In this guide, I’ll walk through how to programmatically fetch historical SOL/USDT price data from KuCoin, 
 one of the leading cryptocurrency exchanges, using Python. This process involves interacting with the KuCoin API to retrieve and store data, ensuring you have access to precise historical price movements for analysis.
